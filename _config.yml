@@ -1,0 +1,15 @@
+title: "Hello, Computer: Unconventional Uses of Voice Technology"
+url: "https://hello-computer.github.io"
+# baseurl: "/"
+
+markdown: kramdown
+
+tracking_id: #
+
+footer: no
+footer_url: "https://github.com/bk2dcradle"
+footer_text: "Page design by Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
