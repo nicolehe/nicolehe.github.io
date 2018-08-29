@@ -1,0 +1,16 @@
+title: "Hello, Computer: Unconventional Uses of Voice Technology"
+url: "https://nicolehe.github.io"
+# gem: "researcher"
+#remote_theme: ankitsultana/researcher
+
+markdown: kramdown
+
+tracking_id: #
+
+footer: yes
+# footer_url: "https://github.com/bk2dcradle"
+footer_text: "© Nicole He 2018"
+
+sass:
+    style: compressed
+    sass_dir: _sass
