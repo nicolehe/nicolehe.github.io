@@ -1,0 +1,11 @@
+- name: "Syllabus"
+  link: "/"
+
+- name: "Student Blogs"
+  link: "studentblogs"
+
+- name: "GitHub"
+  link: "https://github.com/nicolehe"
+ 
+- name: "Schedule"
+  link: "schedule"
