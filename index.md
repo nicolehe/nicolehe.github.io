@@ -44,6 +44,8 @@ It's important that you participate in class discussions and give thoughtful fee
 
 ## Homework
 
+There will be four weekly homework assignments and a final project.
+
 You are expected to keep a blog for this class, where you will post documentation of your weekly assignments and your final. You will submit a link to your homework via a [Google form](https://goo.gl/forms/kYrWt0IsDdWXpEyM2) before class starts.
 
 ---

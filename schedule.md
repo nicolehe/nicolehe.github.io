@@ -10,7 +10,8 @@ layout: default
 - Existing models of human and computer conversation
 - Introduction to text-to-speech
 
-**Assignment**: Homework 1, due September 17
+**Assignment**: Homework 1, due September 17 — Create something that takes non-speech input from a person and responds with speech synthesis.
+
 
 ### Week 2 (September 17)
 
