@@ -40,7 +40,7 @@ You are expected to show up on time for every class. Being regularly late will a
 
 You are expected to talk not only with computers, but also with each other.
 
-It's important that you participate in class discussions and give thoughtful feedback to your classmates when they show their work. Your perspective is important—especially with this experimental subject matter—since we are all learning together. 
+It's important that you participate in class discussions and give thoughtful feedback to your classmates when they show their work. Your perspective is meaningful — especially with this experimental subject matter — since we are all learning together. 
 
 ## Homework
 
@@ -50,9 +50,9 @@ You are expected to keep a blog for this class, where you will post documentatio
 
 ---
 
-## Statement on Use of Electronic Devices
+## Using Devices in Class
 
-Laptops will be an essential part of the course and may be used in class during workshops and for taking notes in lecture. Laptops must be closed during class discussions and student presentations. Phone use in class is strictly prohibited unless directly related to a presentation of your own work or if you are asked to do so as part of the curriculum.
+Lids down when your classmate or your classmate's computer is presenting. You can use your computers to look things up and take notes, but please avoid scrolling through your highly addictive social media feeds during class time. 
 
 ## Statement of Academic Integrity
 

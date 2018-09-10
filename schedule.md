@@ -7,10 +7,14 @@ layout: default
 ### Week 1 (September 10)
 
 - Introductions, syllabus
-- Existing models of human and computer conversation
+- "Conventional" uses of voice technology
 - Introduction to text-to-speech
 
-**Assignment**: Homework 1, due September 17 — Create something that takes non-speech input from a person and responds with speech synthesis.
+**Assignment**: Homework 1, due September 17
+- Create something that takes non-speech input from a person and responds with speech synthesis.
+- Read [The Difference](https://qntm.org/difference) followed by the [author's notes](https://qntm.org/adapting).
+- Listen to the [Helpful Mom Voices](http://reasonablysound.com/2018/02/27/helpful-mom-voices/) podcast episode from Reasonably Sound.
+- [Email Nicole](mailto:nicole.he@nyu.edu) a link to your blog category for this class.
 
 
 ### Week 2 (September 17)
