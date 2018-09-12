@@ -16,6 +16,11 @@ layout: default
 - Listen to the [Helpful Mom Voices](http://reasonablysound.com/2018/02/27/helpful-mom-voices/) podcast episode from Reasonably Sound.
 - [Email Nicole](mailto:nicole.he@nyu.edu) a link to your blog category for this class.
 
+**Extra Links**:
+- [Intro to ES6](https://andrew.hedges.name/es6/) (optional)
+- [In-class code examples](https://github.com/nicolehe/ITP-hello-computer-f18/tree/master/week1)
+- [Window.speechSynthesis](https://developer.mozilla.org/en-US/docs/Web/API/Window/speechSynthesis) documentation
+
 
 ### Week 2 (September 17)
 
