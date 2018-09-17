@@ -28,6 +28,9 @@ layout: default
 - Introduction to speech-to-text
 
 **Assignment**: Homework 2, due September 24
+- Create something that takes voice input from a person and responds without text.
+- Read [The next video-game controller is your voice](https://www.engadget.com/2017/06/23/voice-based-gaming/).
+- Pick a voice-controlled game such as Chicken Scream ([iOS](https://itunes.apple.com/us/app/chicken-scream/id1215659912?mt=8), [Android](https://play.google.com/store/apps/details?id=com.perfecttapgames.chickenscream&hl=en_US)), or anything from [this list](https://itch.io/games/input-voice) and play it. Write a blog post on your thoughts.
 
 ### Week 3 (September 24)
 
