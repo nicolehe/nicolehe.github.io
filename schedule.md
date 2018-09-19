@@ -32,6 +32,11 @@ layout: default
 - Read [The next video-game controller is your voice](https://www.engadget.com/2017/06/23/voice-based-gaming/).
 - Pick a voice-controlled game such as Chicken Scream ([iOS](https://itunes.apple.com/us/app/chicken-scream/id1215659912?mt=8), [Android](https://play.google.com/store/apps/details?id=com.perfecttapgames.chickenscream&hl=en_US)), or anything from [this list](https://itch.io/games/input-voice) and play it. Write a blog post on your thoughts.
 
+**Extra Links**:
+- [Giphy API](https://developers.giphy.com/docs/)
+- [SpeechRecognition API](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition)
+- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+
 ### Week 3 (September 24)
 
 - Conversation design
