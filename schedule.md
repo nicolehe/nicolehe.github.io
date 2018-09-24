@@ -43,6 +43,10 @@ layout: default
 - Intro to Dialogflow
 
 **Assignment**: Homework 3, due October 1
+- Create something weird with Dialogflow.
+- Listen to episode 1 ([Hope is a Mistake](https://www.gimletmedia.com/sandra/1-hope-is-a-mistake#episode-player), 17:59) and episode 2 ([The User Experience](https://www.gimletmedia.com/sandra/2-the-user-experience#episode-player), 21:51) of the [Sandra](https://www.gimletmedia.com/sandra) podcast.
+- Read [Upending the Uncanny Valley](https://www.aaai.org/Papers/Workshops/2005/WS-05-11/WS05-11-005.pdf).
+- Write a blog post with your thoughts about either Sandra, or Upending the Uncanny Valley.
 
 ### Week 4 (October 1)
 
