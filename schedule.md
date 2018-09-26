@@ -48,6 +48,10 @@ layout: default
 - Read [Upending the Uncanny Valley](https://www.aaai.org/Papers/Workshops/2005/WS-05-11/WS05-11-005.pdf).
 - Write a blog post with your thoughts about either Sandra, or Upending the Uncanny Valley.
 
+**Extra Links**:
+- [Mystery Animal code](https://github.com/googlecreativelab/mystery-animal)
+- [Dialogflow docs](https://dialogflow.com/docs) - for this week, focus on understanding [Intents](https://dialogflow.com/docs/intents), [Entities](https://dialogflow.com/docs/entities) and [Contexts](https://dialogflow.com/docs/contexts).
+
 ### Week 4 (October 1)
 
 - Implications of voice assistants
