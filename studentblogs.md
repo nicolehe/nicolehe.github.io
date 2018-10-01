@@ -17,3 +17,4 @@ layout: default
 - [Ridwan](www.ridwanmadon.com/blog)
 - [Alden](http://blog.alden.website/categories/hello-computer/)
 - [Jiyao](http://zhangjiyao.me/category/itp/fall-2018/hello-computer/)
+- [Keerthana](https://keerthanapareddy.wordpress.com/category/hello-computer/)

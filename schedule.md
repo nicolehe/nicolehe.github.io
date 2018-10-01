@@ -54,11 +54,11 @@ layout: default
 
 ### Week 4 (October 1)
 
-- Implications of voice assistants
-- Developing for hardware (Alexa, Google Home, AIY Voice Kit)
-- Tutorial about publishing an app on a Google Home
+- Dialogflow fulfillment, Firebase, Actions on Google
 
 **Assignment**: Homework 4, due October 9
+- Create something with Dialogflow, including fulfillment and logic.
+- Read [The Future We Wanted](https://medium.com/@leighalexander/the-future-we-wanted-fd41e3e14512) by Leigh Alexander and write a blog post with your thoughts. 
 
 ### Week 5 (October 9)
 
