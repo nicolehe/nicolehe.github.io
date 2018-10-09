@@ -62,15 +62,19 @@ layout: default
 
 ### Week 5 (October 9)
 
-- Computer as a character
-- Generative text techniques (Corpora, Tracery, etc)
-- Database techniques (Firebase)
+- Advanced Dialogflow: storing data, SSML, surfaces
 
-**Assignment**: Final project, due October 22
+**Assignment**: 
+- Start working on your final project, which is due October 22. Next week, come ready to describe what you'll be working on.
+- Read [Anatomy of an AI System](https://anatomyof.ai/) and write a blog post about it.
 
 ### Week 6 (October 15)
 
 - The future of voice technology
+
+**FINAL PROJECT**: Due October 22
+
+Using human voice, synthesized speech, or both, create something that subverts the conventional uses of voice technology. You can create a new project or meaningfully expand on one of your previous homeworks. Be ready to explain why what you made is interesting to you, and what theme and idea you’re exploring with your work. A blog post with video documentation of the interaction is required, due by October 25th, 12pm. 
 
 ### Week 7 (October 22)
 
