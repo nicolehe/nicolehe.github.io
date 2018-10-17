@@ -70,7 +70,7 @@ layout: default
 
 ### Week 6 (October 15)
 
-- The future of voice technology
+- Advanced topics: Dialogflow in the browser, Firebase databases
 
 **FINAL PROJECT**: Due October 22
 
