@@ -12,7 +12,7 @@ layout: default
 
 **Office Hours**: [Saturdays, 4-6 pm by appointment, book here](https://calendar.google.com/calendar/selfsched?sstoken=UU1tY1ZCbHBac2wzfGRlZmF1bHR8ZTVkMGZkZWM1ODg0OWI4MDBiM2IyZDk2ZTRhOGU0YWE)
 
-**Homework**: [Submit homework here.](https://goo.gl/forms/kYrWt0IsDdWXpEyM2). Due before class starts.
+**Homework**: [Submit homework here.](https://goo.gl/forms/kYrWt0IsDdWXpEyM2).  Due before class starts.
 
 ---
 
