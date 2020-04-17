@@ -4,15 +4,15 @@ layout: default
 
 # SYLLABUS
 
-**NYU ITP, Fall 2018, Mondays 6:30pm—9pm, Sept 10—Oct 22, Room 50**
+**NYU ITP, Fall 2020, Wednesdays 3:20pm-5:50 pm, Oct 28-Dec 9**
 
 **Instructor**: [Nicole He](http://nicole.pizza)
 
 **Email**: [nicole.he [at] nyu.edu](mailto:nicole.he@nyu.edu)
 
-**Office Hours**: [Saturdays, 4-6 pm by appointment, book here](https://calendar.google.com/calendar/selfsched?sstoken=UU1tY1ZCbHBac2wzfGRlZmF1bHR8ZTVkMGZkZWM1ODg0OWI4MDBiM2IyZDk2ZTRhOGU0YWE)
+**Office Hours**: TBD
 
-**Homework**: [Submit homework here.](https://goo.gl/forms/kYrWt0IsDdWXpEyM2).  Due before class starts.
+**Homework**: [Submit homework here.](https://goo.gl/forms/kYrWt0IsDdWXpEyM2)  Due before class starts.
 
 ---
 
