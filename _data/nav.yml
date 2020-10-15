@@ -1,8 +1,12 @@
-- name: "Contact"
-  link: "contact"
 
-- name: "Resume"
-  link: "resume.pdf"
+- name: "Syllabus"
+  link: "/"
 
-- name: "About"
-  link: "/researcher/"
+- name: "Student Blogs"
+  link: "studentblogs"
+
+- name: "GitHub"
+  link: "https://github.com/nicolehe/ITP-hello-computer-f20"
+ 
+- name: "Schedule"
+  link: "schedule"

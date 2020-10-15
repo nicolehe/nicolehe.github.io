@@ -2,19 +2,19 @@
 layout: default
 ---
 
+*Note for Fall 2020 students: this is the old syllabus, the new one will be updated soon.*
+
 # SYLLABUS
 
-**NYU ITP, Fall 2020, Wednesdays 6:30pm—9pm, Oct 28—Dec 9**
+**NYU ITP, Fall 2018, Mondays 6:30pm—9pm, Sept 10—Oct 22, Room 50**
 
 **Instructor**: [Nicole He](http://nicole.pizza)
 
 **Email**: [nicole.he [at] nyu.edu](mailto:nicole.he@nyu.edu)
 
-**Office Hours**: [Mondays, 1-4 pm by appointment, book here](https://calendar.google.com/calendar/selfsched?sstoken=UU1tY1ZCbHBac2wzfGRlZmF1bHR8ZTVkMGZkZWM1ODg0OWI4MDBiM2IyZDk2ZTRhOGU0YWE) - please indicate in the event description if you want to meet remotely or in person.
+**Office Hours**: [Saturdays, 4-6 pm by appointment, book here](https://calendar.google.com/calendar/selfsched?sstoken=UU1tY1ZCbHBac2wzfGRlZmF1bHR8ZTVkMGZkZWM1ODg0OWI4MDBiM2IyZDk2ZTRhOGU0YWE)
 
-**Homework**: [Submit homework here](https://forms.gle/AmaJRGLAjGhP2ScWA). Due before class starts.
-
-**Discord**: The link to join the class Discord will be sent via email.
+**Homework**: [Submit homework here.](https://goo.gl/forms/kYrWt0IsDdWXpEyM2). Due before class starts.
 
 ---
 
@@ -25,12 +25,6 @@ Computers are able to understand human speech better than ever before, but voice
 The goal of this course is to give students the technical ability to imagine and build more creative uses of voice technology. Students will be encouraged to examine and play with the ways in which this emerging field is still broken and strange. We will develop interactions, performances, artworks or apps exploring the unique experience of human and computer conversation.
 
 Students will learn how to use text-to-speech and speech-to-text technologies, voice assistant devices, generative text techniques, open speech APIs, Node.js, and conversational UI design. There will be weekly assignments leading up to a final project. ICM or comparable programming experience required.
-
-## 2020 Adjustments
-
-Exactly how remote vs potentially in person this class will be may change, but for now we'll start with remote classes on Zoom. Nicole will be available for in person office hours on the floor, or remotely of course as well. 
-
-We'll be using Discord to communicate - the link to join will be sent via email.
 
 ## Grading
 
@@ -54,9 +48,13 @@ It's important that you participate in class discussions and give thoughtful fee
 
 There will be four weekly homework assignments and a final project.
 
-You are expected to keep a blog for this class, where you will post documentation of your weekly assignments and your final. You will submit a link to your homework via a [Google form](https://forms.gle/AmaJRGLAjGhP2ScWA) before class starts.
+You are expected to keep a blog for this class, where you will post documentation of your weekly assignments and your final. You will submit a link to your homework via a [Google form](https://goo.gl/forms/kYrWt0IsDdWXpEyM2) before class starts.
 
 ---
+
+## Using Devices in Class
+
+Lids down when your classmate or your classmate's computer is presenting. You can use your computers to look things up and take notes, but please avoid scrolling through your highly addictive social media feeds during class time. 
 
 ## Statement of Academic Integrity
 

@@ -11,7 +11,7 @@ html {
 }
 body {
     margin: 0;
-    font-family: "Inconsolata";
+	font-family: "Inconsolata";
     height: 100%;
 }
 a {
@@ -33,33 +33,37 @@ hr {
  */
 
 #author-name {
-    font-size: 30px;
-    color: #272727;
-    display: inline-block;
+    font-weight: bold;
+	font-size: 40px;
+	color: #a01e77;
+	text-decoration: underline;
+	text-decoration-color: #000000;
+	text-decoration-style: wavy;
+	display: inline-block;
 }
 .navbar {
-    padding: 50px 0 50px 0;
+	padding: 50px 0 50px 0;
 }
 .navbar-ul {
-    display: inline-block;
-    margin: 0;
-    padding: 5px 0 5px 0;
-    margin-left: 20px;
+	display: inline-block;
+	margin: 0;
+	padding: 5px 0 5px 0;
+	margin-left: 20px;
 }
 .nav-list {
-    list-style-type: none;
-    margin: 0 5px 0 10px;
+	list-style-type: none;
+	margin: 0 5px 0 10px;
 }
 .alignable {
-    display: inline-block;
+	display: inline-block;
 }
 .pull-left {
-    @extend .alignable;
-    float: left;
+	@extend .alignable;
+	float: left;
 }
 .pull-right {
-    @extend .alignable;
-    float: right;
+	@extend .alignable;
+	float: right;
 }
 
 /* Divs */
