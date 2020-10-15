@@ -4,7 +4,7 @@ layout: default
 
 # SYLLABUS
 
-**NYU ITP, Fall 2020, Wednesdays 6:30pm—9pm, Oct 28—Dec 9**
+**NYU ITP, Fall 2020, Wednesdays 3:20pm-5:50 pm, Oct 28-Dec 9**
 
 **Instructor**: [Nicole He](http://nicole.pizza)
 

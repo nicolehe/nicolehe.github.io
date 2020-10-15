@@ -2,6 +2,8 @@
 layout: default
 ---
 
+*Note to 2020 students: this was the old schedule and it will be changed and updated, but it'll give you a general sense of what will happen.*
+
 ## SCHEDULE
 
 ### Week 1 (October 28)
