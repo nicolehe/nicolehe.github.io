@@ -6,7 +6,7 @@ layout: default
 
 **NYU ITP, Fall 2020, Wednesdays 3:20pm-5:50 pm, Oct 28-Dec 9**
 
-**Instructor**: [Nicole He](http://nicole.pizza)
+**Instructor**: [Nicole He](http://nicole.pizza) (she/her)
 
 **Email**: [nicole.he [at] nyu.edu](mailto:nicole.he@nyu.edu)
 
