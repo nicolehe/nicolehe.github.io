@@ -50,11 +50,13 @@ You are expected to talk not only with computers, but also with each other.
 
 It's important that you participate in class discussions and give thoughtful feedback to your classmates when they show their work. Your perspective is meaningful — especially with this experimental subject matter — since we are all learning together. 
 
+This year we're also moving reading discussions to Discord, rather than having to post about them on blogs or talk about them during class time. Your participation in these Discord media discussions will also count towards your grade.
+
 ## Homework
 
 There will be four weekly homework assignments and a final project.
 
-You are expected to keep a blog for this class, where you will post documentation of your weekly assignments and your final. You will submit a link to your homework via a [Google form](https://forms.gle/AmaJRGLAjGhP2ScWA) before class starts.
+Most weeks, there will be a creative/technical assignment and a reading (or podcast to listen to or game to play). You will submit a link to your creative assignment via a [Google form](https://forms.gle/AmaJRGLAjGhP2ScWA) before class starts. In lieu of keeping a blog for this class (which you are welcome to do if you want to!), we'll be discussing the readings etc. in the class Discord asynchronously throughout the week.
 
 ---
 
