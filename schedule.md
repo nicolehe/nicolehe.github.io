@@ -11,10 +11,9 @@ layout: default
 - Introduction to text-to-speech
 
 **Assignment**: Homework 1, due November 4
-- Create something that takes non-speech input from a person and responds with speech synthesis.
-- Read [The Difference](https://qntm.org/difference) followed by the [author's notes](https://qntm.org/adapting).
-- Listen to the [Helpful Mom Voices](http://reasonablysound.com/2018/02/27/helpful-mom-voices/) podcast episode from Reasonably Sound.
-- [Email Nicole](mailto:nicole.he@nyu.edu) a link to your blog category for this class.
+- *Creative Assignment*: Create something that takes non-speech input from a person and responds with speech synthesis.
+- *Media Assignment*: Read [The Difference](https://qntm.org/difference) followed by the [author's notes](https://qntm.org/adapting). Listen to the [Helpful Mom Voices](http://reasonablysound.com/2018/02/27/helpful-mom-voices/) podcast episode from Reasonably Sound.
+- Join the class Discord (link will be sent out via email) and discuss the media assignments there.
 
 **Extra Links**:
 - [Intro to ES6](https://andrew.hedges.name/es6/)
