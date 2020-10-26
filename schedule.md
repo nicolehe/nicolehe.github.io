@@ -18,7 +18,7 @@ layout: default
 
 **Extra Links**:
 - [Intro to ES6](https://andrew.hedges.name/es6/)
-- [In-class code examples](https://github.com/nicolehe/ITP-hello-computer-f18/tree/master/week1)
+- In-class code examples (to come)
 - [SpeechSynthesis](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis) documentation
 
 
