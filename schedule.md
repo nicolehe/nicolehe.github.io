@@ -19,7 +19,7 @@ layout: default
 
 **Extra Links**:
 - [Intro to ES6](https://andrew.hedges.name/es6/)
-- In-class code examples (to come)
+- [In-class code examples](https://github.com/nicolehe/ITP-hello-computer-f20/tree/main/week1)
 - [SpeechSynthesis](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis) documentation
 
 
