@@ -15,6 +15,7 @@ layout: default
 - **Media Assignment**: Listen to the [Helpful Mom Voices](http://reasonablysound.com/2018/02/27/helpful-mom-voices/) podcast episode from Reasonably Sound.
     - *optional*: Read [The Difference](https://qntm.org/difference) followed by the [author's notes](https://qntm.org/adapting). 
 - Join the class Discord (link will be sent out via email) and discuss the media assignments there.
+- Share your blog link with Nicole.
 
 **Extra Links**:
 - [Intro to ES6](https://andrew.hedges.name/es6/)
