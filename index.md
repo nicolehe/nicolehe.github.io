@@ -56,7 +56,7 @@ This year we're also moving reading discussions to Discord, rather than having t
 
 There will be four weekly homework assignments and a final project.
 
-Most weeks, there will be a creative/technical assignment and a reading (or podcast to listen to or game to play). You will submit a link to your creative assignment via a [Google form](https://forms.gle/AmaJRGLAjGhP2ScWA) before class starts. In lieu of keeping a blog for this class (which you are welcome to do if you want to!), we'll be discussing the readings etc. in the class Discord asynchronously throughout the week.
+Most weeks, there will be a creative/technical assignment and a reading (or podcast to listen to or game to play). You will submit a link to your creative assignment via a [Google form](https://forms.gle/AmaJRGLAjGhP2ScWA) before class starts. In lieu of writing reflections in a blog post (which you are welcome to do if you want to!), we'll be discussing the readings etc. in the class Discord asynchronously throughout the week.
 
 ---
 
