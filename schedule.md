@@ -28,6 +28,15 @@ layout: default
 - Being understood by computers
 - Introduction to speech-to-text
 
+**Assignment**: Homework 2, due November 18
+- Create something that takes voice input from a person and responds without text.
+- Read [Anatomy of an AI system](https://anatomyof.ai/) and discuss it in the #media-discussions channel in Discord.
+
+**Extra Links**:
+- [Giphy API](https://developers.giphy.com/docs/)
+- [SpeechRecognition API](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition)
+- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+
 ### Week 3 (November 18)
 
 - Conversation design
