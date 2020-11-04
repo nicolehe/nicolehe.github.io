@@ -30,7 +30,7 @@ layout: default
 
 **Assignment**: Homework 2, due November 18
 - Create something that takes voice input from a person and responds without text.
-- Read [Anatomy of an AI system](https://anatomyof.ai/) and discuss it in the #media-discussions channel in Discord.
+- Listen to the [Raising Devendra](https://www.npr.org/2019/12/13/787876476/raising-devendra) episode from the Invisibilia podcast and discuss it in the #media-discussions channel in Discord.
 
 **Extra Links**:
 - [Giphy API](https://developers.giphy.com/docs/)
