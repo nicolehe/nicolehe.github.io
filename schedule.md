@@ -54,7 +54,7 @@ layout: default
 
 ### Week 4 (November 18)
 
-- Dialogflow fulfillment, Firebase, Actions on Google
+- Dialogflow fulfillment, SSML, Firebase, Actions on Google
 
 **Assignment**: Homework 4, due November 25
 - Create something with Dialogflow, including fulfillment and logic.
@@ -68,7 +68,7 @@ layout: default
 
 ### Week 5 (November 25)
 
-- Advanced Dialogflow: storing data, SSML, surfaces
+- Advanced Dialogflow: storing data, surfaces
 
 
 ### Week 6 (December 2)
