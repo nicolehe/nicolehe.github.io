@@ -68,12 +68,24 @@ layout: default
 
 ### Week 5 (November 25)
 
-- Advanced Dialogflow: storing data, surfaces
+- Voice technology in videogames
+- Advanced Dialogflow: importing entities, storing data, surfaces
 
+**Assignment**: 
+- Start working on your final project (prompt below), which is due December. Next week, come ready to describe what you'll be working on.
+- Read [Voice Interaction and Player Identity Dissonance in Games](https://www.gamasutra.com/blogs/MarcusCarter/20151130/260269/Voice_Interaction_and_Player_Identity_Dissonance_in_Games.php) by Marcus Carter.
+- Play [any of these](https://itch.io/games/tag-voice-controlled) voice controlled games and share your experience in the #media-discussions channel in Discord.
+
+**Extra Links**
+ - [Previous students' final projects](https://medium.com/@nicolehe/fifteen-unconventional-uses-of-voice-technology-fa1b749c14bf)
 
 ### Week 6 (December 2)
 
 - Advanced topics: Dialogflow in the browser, Firebase databases
+
+**FINAL PROJECT**: Due December 9
+
+Using human voice, synthesized speech, or both, create something that subverts the conventional uses of voice technology. You can create a new project or meaningfully expand on one of your previous homeworks. Be ready to explain why what you made is interesting to you, and what theme and idea you’re exploring with your work. A blog post with video documentation of the interaction is required, due by Sunday, December 13, 12pm. 
 
 ### Week 7 (December 9)
 
