@@ -77,11 +77,17 @@ layout: default
 - Play [any of these](https://itch.io/games/tag-voice-controlled) voice controlled games and share your experience in the #media-discussions channel in Discord.
 
 **Extra Links**
- - [Previous students' final projects](https://medium.com/@nicolehe/fifteen-unconventional-uses-of-voice-technology-fa1b749c14bf)
+- [Corpora](https://github.com/dariusk/corpora)
+- [Lodash](https://lodash.com/docs/4.17.15)
+- [Dialogflow: save data in conversation](https://developers.google.com/assistant/conversational/df-asdk/save-data)
+- [Previous students' final projects](https://medium.com/@nicolehe/fifteen-unconventional-uses-of-voice-technology-fa1b749c14bf)
 
 ### Week 6 (December 2)
 
-- Advanced topics: Dialogflow in the browser, Firebase databases
+- Advanced topics: Dialogflow in the browser
+
+**Assignment**: 
+- *optional*: - Watch [Her](https://decider.com/movie/her/) and talk about it in the #media-discussions channel in Discord.
 
 **FINAL PROJECT**: Due December 9
 
