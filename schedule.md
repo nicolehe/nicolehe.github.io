@@ -89,6 +89,11 @@ layout: default
 **Assignment**: 
 - *optional*: - Watch [Her](https://decider.com/movie/her/) and talk about it in the #media-discussions channel in Discord.
 
+**Extra Links**
+- [Dialogflow API setup](https://cloud.google.com/dialogflow/es/docs/quick/setup)
+- [Dialogflow API Node.js client](https://github.com/googleapis/nodejs-dialogflow)
+- [Socket.IO introduction](https://socket.io/docs/v3/index.html)
+
 **FINAL PROJECT**: Due December 9
 
 Using human voice, synthesized speech, or both, create something that subverts the conventional uses of voice technology. You can create a new project or meaningfully expand on one of your previous homeworks. Be ready to explain why what you made is interesting to you, and what theme and idea you’re exploring with your work. A blog post with video documentation of the interaction is required, due by Sunday, December 13, 12pm. 
