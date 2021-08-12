@@ -78,4 +78,4 @@ Using human voice, synthesized speech, or both, create something that subverts t
 
 ### Week 7 (October 22)
 
-- Final project presentationsgit 
+- Final project presentations

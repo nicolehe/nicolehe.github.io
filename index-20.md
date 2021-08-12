@@ -4,13 +4,13 @@ layout: default
 
 # SYLLABUS
 
-**NYU ITP, Fall 2021, Thursdays 3:30pm-6:00 pm, Sept 2-Oct 14**
+**NYU ITP, Fall 2020, Wednesdays 3:20pm-5:50 pm, Oct 28-Dec 9**
 
 **Instructor**: [Nicole He](http://nicole.pizza) (she/her)
 
 **Email**: [nicole.he [at] nyu.edu](mailto:nicole.he@nyu.edu)
 
-**Office Hours**: [Sundays, 1-4 pm by appointment, book here](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU1tY1ZCbHBac2wzfGRlZmF1bHR8ZTVkMGZkZWM1ODg0OWI4MDBiM2IyZDk2ZTRhOGU0YWE).
+**Office Hours**: [Mondays, 1-4 pm by appointment, book here](https://calendar.google.com/calendar/selfsched?sstoken=UU1tY1ZCbHBac2wzfGRlZmF1bHR8ZTVkMGZkZWM1ODg0OWI4MDBiM2IyZDk2ZTRhOGU0YWE) - please indicate in the event description if you want to meet remotely or in person.
 
 **Homework**: [Submit homework here](https://forms.gle/AmaJRGLAjGhP2ScWA). Due before class starts.
 
@@ -20,11 +20,17 @@ layout: default
 
 ## Description
 
-Computers are able to understand human speech better than ever before, but voice technology is still mostly used for practical purposes, like playing music, smart home control, or customer service phone trees. What else can we experience in the very weird, yet intuitive act of talking out loud to machines?
+Computers are able to understand human speech better than ever before, but voice technology is still mostly used for practical (and boring!) purposes, like playing music, smart home control, or customer service phone trees. What else can we experience in the very weird, yet intuitive act of talking out loud to machines?
 
-The goal of this course is to give students the technical ability to build modern voice controlled apps and the space to design creative uses for them. Students will be encouraged to examine and play with the ways in which this emerging field is still broken and strange. We will develop interactions, games, performances, artworks or apps exploring the unique experience of human and computer conversation.
+The goal of this course is to give students the technical ability to imagine and build more creative uses of voice technology. Students will be encouraged to examine and play with the ways in which this emerging field is still broken and strange. We will develop interactions, performances, artworks or apps exploring the unique experience of human and computer conversation.
 
 Students will learn how to use text-to-speech and speech-to-text technologies, voice assistant devices, generative text techniques, open speech APIs, Node.js, and conversational UI design. There will be weekly assignments leading up to a final project. ICM or comparable programming experience required.
+
+## 2020 Adjustments
+
+Exactly how remote vs potentially in person this class will be may change, but for now we'll start with remote classes on Zoom. Nicole will be available for in person office hours on the floor, or remotely of course as well. 
+
+We'll be using Discord to communicate - the link to join will be sent via email.
 
 ## Grading
 
