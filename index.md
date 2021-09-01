@@ -12,7 +12,7 @@ layout: default
 
 **Office Hours**: [Sundays, 1-4 pm by appointment, book here](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU1tY1ZCbHBac2wzfGRlZmF1bHR8ZTVkMGZkZWM1ODg0OWI4MDBiM2IyZDk2ZTRhOGU0YWE).
 
-**Homework**: [Submit homework here](https://forms.gle/AmaJRGLAjGhP2ScWA). Due before class starts.
+**Homework**: [Submit homework here](https://forms.gle/gs4FByR9y4NKfzCj9). Due before class starts.
 
 **Discord**: The link to join the class Discord will be sent via email.
 
@@ -50,7 +50,7 @@ This year we're also moving reading discussions to Discord, rather than having t
 
 There will be four weekly homework assignments and a final project.
 
-Most weeks, there will be a creative/technical assignment and a reading (or podcast to listen to or game to play). You will submit a link to your creative assignment via a [Google form](https://forms.gle/AmaJRGLAjGhP2ScWA) before class starts. In lieu of writing reflections in a blog post (which you are welcome to do if you want to!), we'll be discussing the readings etc. in the class Discord asynchronously throughout the week.
+Most weeks, there will be a creative/technical assignment and a reading (or podcast to listen to or game to play). You will submit a link to your creative assignment via a [Google form](https://forms.gle/gs4FByR9y4NKfzCj9) before class starts. In lieu of writing reflections in a blog post (which you are welcome to do if you want to!), we'll be discussing the readings etc. in the class Discord asynchronously throughout the week.
 
 ---
 
