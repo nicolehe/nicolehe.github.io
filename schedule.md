@@ -12,8 +12,10 @@ layout: default
 
 **Assignment**: Homework 1, due September 9
 - **Creative Assignment**: Create something that takes non-speech input from a person and responds with speech synthesis.
-- **Media Assignment**: Listen to the [Helpful Mom Voices](http://reasonablysound.com/2018/02/27/helpful-mom-voices/) podcast episode from Reasonably Sound.
-    - Read [The Difference](https://qntm.org/difference) followed by the [author's notes](https://qntm.org/adapting). 
+- **Media Assignments**: 
+  1. Listen to the [Helpful Mom Voices](http://reasonablysound.com/2018/02/27/helpful-mom-voices/) podcast episode from Reasonably Sound.
+  2. Read [The Difference](https://qntm.org/difference) followed by the [author's notes](https://qntm.org/adapting). 
+   
 - Join the class Discord (link will be sent out via email) and discuss the media assignments there.
 - Share your blog link with Nicole.
   
