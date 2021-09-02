@@ -10,7 +10,7 @@ layout: default
 
 **Email**: [nicole.he [at] nyu.edu](mailto:nicole.he@nyu.edu)
 
-**Office Hours**: [Sundays, 1-4 pm by appointment, book here](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU1tY1ZCbHBac2wzfGRlZmF1bHR8ZTVkMGZkZWM1ODg0OWI4MDBiM2IyZDk2ZTRhOGU0YWE).
+**Office Hours**: [Sundays, 1-4 pm by appointment, book here](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU1tY1ZCbHBac2wzfGRlZmF1bHR8ZTVkMGZkZWM1ODg0OWI4MDBiM2IyZDk2ZTRhOGU0YWE). Please edit the event description to say whether you want to meet in person at ITP or via Zoom. If you want to meet in person, please book it at least a day in advance.
 
 **Homework**: [Submit homework here](https://forms.gle/gs4FByR9y4NKfzCj9). Due before class starts.
 
