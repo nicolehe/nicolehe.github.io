@@ -28,13 +28,28 @@ layout: default
 
 ### Week 2 (September 9)
 
+- Being understood by computers
+- Introduction to speech-to-text
+
 ### Week 3 (September 16)
+
+- Conversation design
+- Intro to Dialogflow
 
 ### Week 4 (September 23)
 
+- Dialogflow fulfillment, SSML, Firebase, Actions on Google
+
 ### Week 5 (September 30)
+
+- Voice technology in videogames
+- Advanced Dialogflow: importing entities, storing data, surfaces
 
 ### Week 6 (October 7)
 
+- Advanced topics: Dialogflow in the browser
+
 ### Week 7 (October 14)
+
+- Final project presentations
 
