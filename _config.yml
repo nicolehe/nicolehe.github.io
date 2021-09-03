@@ -10,7 +10,7 @@ tracking_id: #
 
 footer: yes
 # footer_url: "https://github.com/bk2dcradle"
-footer_text: "© Nicole He 2020"
+footer_text: "© Nicole He 2021"
 
 sass:
     style: compressed

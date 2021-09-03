@@ -24,7 +24,7 @@ layout: default
 - [Nicole's Git and Github tutorial](https://www.youtube.com/watch?v=PdLTopQ253g)
 - [Nicole's Dev Setup](https://www.youtube.com/watch?v=9nRyKL4zwDs)
 - [Intro to ES6](https://andrew.hedges.name/es6/)
-- In-class code examples to come
+- [In-class code examples](https://github.com/nicolehe/ITP-hello-computer-f21/tree/main/week1-speech-synthesis)
 - [SpeechSynthesis](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis) documentation
 
 ### Week 2 (September 9)
