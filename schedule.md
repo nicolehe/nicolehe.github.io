@@ -33,6 +33,15 @@ layout: default
 - Being understood by computers
 - Introduction to speech-to-text
 
+**Assignment**: Homework 2, due September 16
+- Create something that takes voice input from a person and responds without text.
+- Listen to the [Raising Devendra](https://www.npr.org/2019/12/13/787876476/raising-devendra) episode from the Invisibilia podcast and discuss it in the #media-discussions channel in Discord.
+
+**Extra Links**:
+- [Giphy API](https://developers.giphy.com/docs/)
+- [SpeechRecognition API](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition)
+- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+
 
 ### Week 3 (September 16)
 
