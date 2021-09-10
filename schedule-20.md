@@ -30,7 +30,7 @@ layout: default
 
 **Assignment**: Homework 2, due November 11
 - **Creative Assignment**: Create something that takes voice input from a person and responds without text.
-- - **Media Assignment**: Listen to the [Raising Devendra](https://www.npr.org/2019/12/13/787876476/raising-devendra) episode from the Invisibilia podcast and discuss it in the #media-discussions channel in Discord.
+- **Media Assignment**: Listen to the [Raising Devendra](https://www.npr.org/2019/12/13/787876476/raising-devendra) episode from the Invisibilia podcast and discuss it in the #media-discussions channel in Discord.
 
 **Extra Links**:
 - [Giphy API](https://developers.giphy.com/docs/)
