@@ -16,3 +16,4 @@ layout: default
 - [Pauline](https://sites.google.com/nyu.edu/msrainwater-itp/year-2/fall/hello-computer?authuser=0)
 - [Kseniia](https://kb3668.wixsite.com/kayb-blog/blog)
 - [Anh](https://www.notion.so/anh-a993305ae7fe43a8925b3b938032a1f0)
+- [Minyoung](https://aluminum-adjustment-df8.notion.site/Hello-Computer-Unconventional-Uses-of-Voice-Technology-b50dacd23935409fa706829b50d9d9d5)
