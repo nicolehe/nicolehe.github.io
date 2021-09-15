@@ -50,6 +50,16 @@ layout: default
 - Conversation design
 - Intro to Dialogflow
 
+**Assignment**: Homework 3, due September 23
+- **Creative Assignment**: Create something weird with Dialogflow and fill out the voice bot design worksheet for it (linked below).
+- **Media Assignments**: 
+  1. Play Everest Pipkin's [Shell Song](https://culture.theodi.org/shellsong/) and discuss it in the #media-discussions channel in Discord.
+  2. Read "[The Ethics of a Deepfake Anthony Bourdain Voice](https://www.newyorker.com/culture/annals-of-gastronomy/the-ethics-of-a-deepfake-anthony-bourdain-voice)" and discuss it in the #media-discussions channel in Discord.
+
+**Extra Links**:
+- [Voice Bot Design worksheet](https://drive.google.com/file/d/1S4gBVokn8G_iARbn4AoHDFbqQdSPnQrA/view?usp=sharing)
+- [Dialogflow docs](https://dialogflow.com/docs) - for this week, focus on understanding [Intents](https://dialogflow.com/docs/intents), [Entities](https://dialogflow.com/docs/entities) and [Contexts](https://dialogflow.com/docs/contexts).
+
 ### Week 4 (September 23)
 
 **Topics**:
