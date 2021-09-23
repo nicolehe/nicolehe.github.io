@@ -60,10 +60,18 @@ layout: default
 - [Voice Bot Design worksheet](https://drive.google.com/file/d/1S4gBVokn8G_iARbn4AoHDFbqQdSPnQrA/view?usp=sharing)
 - [Dialogflow docs](https://dialogflow.com/docs) - for this week, focus on understanding [Intents](https://dialogflow.com/docs/intents), [Entities](https://dialogflow.com/docs/entities) and [Contexts](https://dialogflow.com/docs/contexts).
 
-### Week 4 (September 23)
+### Week 4 (November 18)
 
-**Topics**:
 - Dialogflow fulfillment, SSML, Firebase, Actions on Google
+
+**Assignment**: Homework 4, due September 30
+- **Creative Assignment**: Create something with Dialogflow, including fulfillment and logic.
+- **Media Assignment**: - Listen to episode 1 ([Hope is a Mistake](https://www.gimletmedia.com/sandra/1-hope-is-a-mistake#episode-player), 17:59) and episode 2 ([The User Experience](https://www.gimletmedia.com/sandra/2-the-user-experience#episode-player), 21:51) of the [Sandra](https://www.gimletmedia.com/sandra) podcast and discuss it in the #media-discussions channel in Discord.
+
+**Extra Links**
+- [How to install Firebase CLI](https://firebase.google.com/docs/cli/)
+- [Dialogflow Webhook Boilerplate Node.js](https://github.com/actions-on-google/dialogflow-webhook-boilerplate-nodejs/blob/master/functions/index.js)
+- [Actions on Google Node.js client library intro](https://developers.google.com/assistant/conversational/df-asdk/reference/nodejsv2/overview)
 
 ### Week 5 (September 30)
 
