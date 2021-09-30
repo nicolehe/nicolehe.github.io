@@ -77,13 +77,27 @@ layout: default
 ### Week 5 (September 30)
 
 **Topics**:
-- Voice technology in videogames
-- Advanced Dialogflow: importing entities, storing data, surfaces
+- Advanced Dialogflow: Dialogflow in the browser 
+
+**Assignment**: 
+  - **Creative Assignment**: Start working on your final project (prompt below), which is due October 14. Next week, come ready to describe what you'll be working on.
+  - **Media Assignment**:
+    1. Read [Voice Interaction and Player Identity Dissonance in Games](https://www.gamedeveloper.com/design/voice-interaction-and-player-identity-dissonance-in-games) by Marcus Carter.
+    2. Play [any of these](https://itch.io/games/tag-voice-controlled) voice controlled games and share your experience in the #media-discussions channel in Discord.
+
+**Extra Links**
+- [Dialogflow API setup](https://cloud.google.com/dialogflow/es/docs/quick/setup)
+- [Dialogflow API Node.js client](https://github.com/googleapis/nodejs-dialogflow)
+- [Socket.IO introduction](https://socket.io/docs/v3/index.html)
 
 ### Week 6 (October 7)
 
 **Topics**:
-- Advanced topics: Dialogflow in the browser
+- Advanced topics: importing entities, storing data, surfaces
+
+**FINAL PROJECT**: Due October 14
+
+Using human voice, synthesized speech, or both, create something that subverts the conventional uses of voice technology. You can create a new project or meaningfully expand on one of your previous homeworks. Be ready to explain why what you made is interesting to you, and what theme and idea you’re exploring with your work. A blog post with video documentation of the interaction is required, due by Sunday, December 13, 12pm. 
 
 ### Week 7 (October 14)
 
