@@ -97,7 +97,7 @@ layout: default
 
 **FINAL PROJECT**: Due October 14
 
-Using human voice, synthesized speech, or both, create something that subverts the conventional uses of voice technology. You can create a new project or meaningfully expand on one of your previous homeworks. Be ready to explain why what you made is interesting to you, and what theme and idea you’re exploring with your work. A blog post with video documentation of the interaction is required, due by Sunday, December 13, 12pm. 
+Using human voice, synthesized speech, or both, create something that subverts the conventional uses of voice technology. You can create a new project or meaningfully expand on one of your previous homeworks. Be ready to explain why what you made is interesting to you, and what theme and idea you’re exploring with your work. A blog post with video documentation of the interaction is required, due by Sunday, October 17, 12pm. 
 
 ### Week 7 (October 14)
 
