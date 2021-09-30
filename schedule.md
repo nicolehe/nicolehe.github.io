@@ -60,7 +60,7 @@ layout: default
 - [Voice Bot Design worksheet](https://drive.google.com/file/d/1S4gBVokn8G_iARbn4AoHDFbqQdSPnQrA/view?usp=sharing)
 - [Dialogflow docs](https://dialogflow.com/docs) - for this week, focus on understanding [Intents](https://dialogflow.com/docs/intents), [Entities](https://dialogflow.com/docs/entities) and [Contexts](https://dialogflow.com/docs/contexts).
 
-### Week 4 (November 18)
+### Week 4 (September 23)
 
 **Topics**
 - Dialogflow fulfillment, SSML, Firebase
