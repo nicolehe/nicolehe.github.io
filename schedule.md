@@ -93,7 +93,19 @@ layout: default
 ### Week 6 (October 7)
 
 **Topics**:
-- Advanced topics: importing entities, storing data, surfaces
+- Voice technology in videogames
+- Advanced topics: importing entities, storing data
+
+**Assignment**:
+  - **Creative Assignment**: The final project! See below.
+  - **Media Assignment**: Watch [Her](https://decider.com/movie/her/) and talk about it in the #media-discussions channel in Discord.
+
+
+**Extra Links**
+- [Corpora](https://github.com/dariusk/corpora)
+- [Lodash](https://lodash.com/docs/4.17.15)
+- [Dialogflow: save data in conversation](https://developers.google.com/assistant/conversational/df-asdk/save-data)
+- [Previous students' final projects](https://medium.com/@nicolehe/fifteen-unconventional-uses-of-voice-technology-fa1b749c14bf)
 
 **FINAL PROJECT**: Due October 14
 
